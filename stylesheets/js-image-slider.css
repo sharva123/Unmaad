@@ -29,7 +29,7 @@ div.navBulletsWrapper { top:320px; left:280px; }
 #slider .video {
 	background:transparent url(video.png) no-repeat 50% 50%;
 }
-#slider { width:960px;height:420px; }
+#slider { width:400px;height:420px; }
 /* Caption styles */
 #slider div.mc-caption-bg, #slider div.mc-caption-bg2 {
 	position:absolute;
