@@ -1,22 +1,21 @@
-var sliderOptions=
+var sliderOptions =
 {
 	sliderId: "slider",
 	startSlide: 0,
 	effect: "series1",
 	effectRandom: false,
-	pauseTime: 2600,
-	transitionTime: 500,
-	slices: 12,
+	pauseTime: 2800,
+	transitionTime: 1200,
+	slices: 14,
 	boxes: 8,
 	hoverPause: 1,
 	autoAdvance: true,
-	captionOpacity: 0.3,
+	captionOpacity: 0.4,
 	captionEffect: "fade",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
-	license: "b6t80"
+	license: "mylicense"
 };
-
 var imageSlider=new mcImgSlider(sliderOptions);
 
 /* Menucool Javascript Image Slider v2014.1.4. Copyright www.menucool.com */
