@@ -333,7 +333,6 @@ ul {
 /* ------ built-in navigation bullets wrapper that is relative to the #slider ------*/
 div.navBulletsWrapper { top:320px; left:280px; }
 
-#slider { width:960px;height:420px; }
 
 ol {
   list-style: decimal inside;
