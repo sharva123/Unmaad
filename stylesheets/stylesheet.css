@@ -577,7 +577,7 @@ div#slidercontainer {
   padding-left: 200px;
 }
 
-div#sider img { 
+div#slider img { 
   width: 800px;
   height: 600px; 
   float: right;
@@ -585,7 +585,7 @@ div#sider img {
 
 div#css3slider { 
   position: relative; 
-  width:3900px;  
+  width:1200px;  
   -webkit-animation-name:slider;
   -webkit-animation-duration:15s;
   -webkit-animation-timing-function: ease-in-out;
