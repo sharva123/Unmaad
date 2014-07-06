@@ -569,15 +569,17 @@ div#slidercontainer {
   position: relative; 
   overflow: hidden; 
   background: #000 
+  padding-left: 200px;
 }
 div#slidercontainer { 
-  width: 1200px;
-  height: 800px; 
+  width: 800px;
+  height: 600px;
+  padding-left: 200px;
 }
 
 div#sider img { 
-  width: 1200px;
-  height: 800px; 
+  width: 800px;
+  height: 600px; 
   float: left;
 }
 
