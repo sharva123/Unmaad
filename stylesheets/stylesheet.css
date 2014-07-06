@@ -582,7 +582,7 @@ div#sider img {
 }
 
 div#css3slider { 
-  position: absolute; 
+  position: relative; 
   width:3900px;  
   -webkit-animation-name:slider;
   -webkit-animation-duration:15s;
