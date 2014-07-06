@@ -572,20 +572,20 @@ div#slidercontainer {
   padding-left: 200px;
 }
 div#slidercontainer { 
-  width: 800px;
-  height: 600px;
+  width: 1200px;
+  height: 800px;
   padding-left: 200px;
 }
 
 div#slider img { 
-  width: 800px;
-  height: 600px; 
+  width: 12000px;
+  height: 800px; 
   float: right;
 }
 
 div#css3slider { 
   position: relative; 
-  width:1200px;  
+  width:3000px;  
   -webkit-animation-name:slider;
   -webkit-animation-duration:15s;
   -webkit-animation-timing-function: ease-in-out;
