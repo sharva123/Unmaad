@@ -569,21 +569,23 @@ div#slidercontainer {
   position: relative; 
   overflow: hidden; 
   background: #000 
+  padding-left: 200px;
 }
 div#slidercontainer { 
-  width: 764px;
-  height: 341px; 
+  width: 1200px;
+  height: 800px;
+  padding-left: 200px;
 }
 
-div#sider img { 
-  width: 768px;
-  height: 341px; 
-  float: left;
+div#slider img { 
+  width: 12000px;
+  height: 800px; 
+  float: right;
 }
 
 div#css3slider { 
-  position: absolute; 
-  width:3900px;  
+  position: relative; 
+  width:3000px;  
   -webkit-animation-name:slider;
   -webkit-animation-duration:15s;
   -webkit-animation-timing-function: ease-in-out;
