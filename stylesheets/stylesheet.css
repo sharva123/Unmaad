@@ -580,7 +580,7 @@ div#slidercontainer {
 div#sider img { 
   width: 800px;
   height: 600px; 
-  float: left;
+  float: right;
 }
 
 div#css3slider { 
