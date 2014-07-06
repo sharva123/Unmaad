@@ -107,7 +107,9 @@ header h2 {
 
 
 #menu-content {
-  width: 600px;
+  position : absolute;
+  width: 400px;
+  
   float: right;
 }
 #main-content img {
